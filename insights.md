@@ -1,98 +1,100 @@
-# Analysis Insights
+# 분석 인사이트 도출
 
-## 1. Search responsiveness and efficiency differ clearly by service type
+## 1. 서비스 유형별로 검색 반응도와 효율성이 뚜렷하게 갈렸습니다
 
-At the Ad Group level, the **SEN (Special Educational Needs)** and **NCS (Support for Non-Chinese Speaking Students)** services showed relatively stronger user response.
+광고그룹 단위로 보면 **SEN(특수교육 지원)**과 **NCS(비화어 학생 지원)** 서비스가 상대적으로 더 강한 사용자 반응을 보였습니다.
 
-### Ad Group performance snapshot
+### 광고그룹 성과 스냅샷
 
-| Ad Group | Clicks | CTR |
+| 광고그룹 | 클릭수 | CTR |
 |--------|--------|-----|
 | SEN_1 | 3 | 13.64% |
 | NCS_Eng | 1 | 16.67% |
 | ELD_3 | 1 | 14.29% |
-| Other groups | 0 | 0.00% |
+| 그 외 그룹 | 0 | 0.00% |
 
-- SEN_1 recorded the highest impression volume (22 impressions) and click count.
-- NCS_Eng had lower volume but the highest CTR.
-- Performance variance was meaningful even across ad versions within the same service.
+- SEN_1은 노출수(22회)와 클릭수 모두 가장 높았습니다.
+- NCS_Eng는 노출량은 적었지만 CTR이 가장 높았습니다.
+- 같은 서비스 안에서도 광고 버전에 따라 의미 있는 성과 차이가 있었습니다.
 
-This indicates that alignment between service intent and user search intent directly influences click behavior.
+이는 서비스의 의도와 사용자의 검색 의도가 얼마나 맞아떨어지는지가 클릭 행동에 직접 영향을 준다는 것을 보여줍니다.
 
 ---
 
-## 2. Problem-aware keywords showed very high response potential
+## 2. 문제 인지형 키워드가 매우 높은 반응 잠재력을 보였습니다
 
-Keyword-level analysis shows that **problem-aware keywords outperformed location-based keywords in CTR**.
+키워드 단위 분석 결과, **문제 인지형(problem-aware) 키워드가 지역 기반 키워드보다 CTR에서 더 좋은 성과**를 냈습니다.
 
-### Top keyword performance
+### 상위 키워드 성과
 
-| Search Keyword | Clicks | CTR |
+| 검색 키워드 | 클릭수 | CTR |
 |---------------|--------|-----|
 | ADHD | 1 | 50.00% |
 | 西貢長者義工 | 1 | 16.67% |
 | sai kung | 1 | 16.67% |
 | 西貢 | 2 | 10.53% |
 
-- The keyword "ADHD" achieved a 50% CTR with a single click event.
-- This suggests users with problem-solving intent can be much more responsive than users in broad exploration mode.
+- "ADHD" 키워드는 클릭 1회만으로 CTR 50%를 기록했습니다.
+- 이는 문제 해결 의도를 가진 사용자가 폭넓게 탐색만 하는 사용자보다 훨씬 더 적극적으로 반응할 수 있음을 시사합니다.
 
-Even under a small budget, problem-aware keywords can be a highly efficient search advertising strategy.
-
----
-
-## 3. Language-level performance gaps reflect audience fit
-
-For the same service, there was a clear performance gap between **Chinese-language ads** and **English-language ads**.
-
-- NCS_中文: 0 clicks, 0% CTR
-- NCS_Eng: 1 click, 16.67% CTR
-
-For NCS support services, English creatives likely matched the actual target audience more effectively.
-
-This implies language choice is not just translation; it is a strategic targeting decision.
+예산이 크지 않아도 문제 인지형 키워드는 매우 효율적인 검색 광고 전략이 될 수 있습니다.
 
 ---
 
-## 4. Campaign structure quality can be monitored via Optimization Score
+## 3. 언어별 성과 차이는 타겟 적합도를 반영합니다
 
-Campaign-level Optimization Scores were generally solid.
+같은 서비스 안에서도 **중국어 광고와 영어 광고** 사이에 뚜렷한 성과 차이가 있었습니다.
 
-| Campaign | Optimization Score |
+- NCS_中文: 클릭 0회, CTR 0%
+- NCS_Eng: 클릭 1회, CTR 16.67%
+
+NCS 지원 서비스의 경우, 영어 광고 소재가 실제 타겟 오디언스와 더 잘 맞았을 가능성이 큽니다.
+
+즉 언어 선택은 단순 번역의 문제가 아니라 전략적인 타겟팅 결정이라는 의미입니다.
+
+---
+
+## 4. 캠페인 구조의 완성도는 Optimization Score로 확인할 수 있습니다
+
+캠페인 단위 Optimization Score는 전반적으로 양호했습니다.
+
+| 캠페인 | Optimization Score |
 |---------|-------------------|
 | ISOM3310GP12_NCS | 88.0% |
 | ISOM3310GP12_SEN | 83.5% |
 | ISOM3310GP12_ELD | 81.4% |
 
-- NCS had the highest structural readiness.
-- Optimization Score is useful not only for short-term performance tracking, but also for prioritizing setup and structure improvements.
+- NCS의 구조적 완성도가 가장 높았어요.
+- Optimization Score는 단기 성과 추적뿐 아니라 설정과 구조 개선의 우선순위를 정하는 데도 유용합니다.
 
 ---
 
-## 5. Demographic distribution aligns with service characteristics
+## 5. 인구통계 분포는 서비스 특성과 잘 맞아떨어진다
 
-Gender and age data showed the following patterns:
+성별과 연령 데이터에서는 다음과 같은 패턴이 나타났습니다.
 
-- Female share was higher than male share.
-- Women aged 35-44 generated the highest impression share (23.33%).
-- Ages 25-54 represented the core exposure range.
+- 여성 비중이 남성보다 높았습니다.
+- 35~44세 여성이 가장 높은 노출 비중(23.33%)을 차지했습니다.
+- 25~54세가 핵심 노출 연령대였습니다.
 
-This pattern is consistent with family-oriented and child-support service decision contexts (e.g., SEN and NCS).
-
----
-
-## 6. Strategic implications
-
-This analysis suggests practical operating priorities:
-
-- Separate keyword strategy by service type
-- Expand experiments around problem-aware, high-intent keywords
-- Redefine target segments using language-level ad performance
-- Use Optimization Score to prioritize campaign structure improvements
-- Keep A/B testing even under limited budgets for data-driven decisions
+이 패턴은 SEN, NCS처럼 가족 중심적이고 자녀 지원과 관련된 서비스의 의사결정 맥락과 일치합니다.
 
 ---
 
-## One-line summary
+## 6. 전략적 시사점
+물론 사이쿵 구의 인구는 대부분 노인에 치중되어 있어 구글과 같은 서치 엔진의 사용이 익숙치 않다는 한계점이 존재합니다. 
+또한 홍콩이라는 국가 특성상 구글보다 웨이보 같은 서치엔진을 사용하는 경향도 있어, 수집된 데이터가 양적으로 부족합니다. 
 
-This project validates, with real campaign data, the full link from **search intent -> ad message -> user response** in a Google SERP environment.
+하지만 그럼에도 불구하고, 이번 분석에서 도출된 실무적 제안 요소는 다음과 같이 설명할 수 있습니다. 
+
+- 서비스 유형별로 키워드 전략 구분하기
+- 문제 인지형, 고관여 키워드 중심으로 실험 확대하기
+- 언어별 광고 성과를 활용해 타겟 세그먼트 재정의하기
+- Optimization Score로 캠페인 구조 개선 우선순위 정하기
+- 제한된 예산에서도 데이터 기반 의사결정을 위해 A/B 테스트를 계속 진행하기
+
+---
+
+## 한 줄 요약
+
+이 프로젝트는 Google SERP 환경에서 검색 의도 → 광고 메시지 → 사용자 반응으로 이어지는 전체 흐름을 실제 캠페인 데이터로 검증합니다.
