@@ -1,55 +1,54 @@
-# 🔍 Google SERP Community Service Marketing Project
+# 홍콩 사이쿵구 커뮤니티센터 SEO 마케팅 프로젝트
 
-This project was designed to improve the Google Search (SERP) visibility of three key services run by the Sai Kung District Community Centre (SKDCC) in Hong Kong.
+홍콩 사이쿵구 커뮤니티센터(SKDCC)가 운영하는 세 가지 핵심 서비스의 구글 검색(SERP) 노출을 개선하기 위해 진행한 SEO 프로젝트입니다.
 
-Rather than only running ads, the work follows a full performance loop:
-**search-intent keyword design -> ad copy A/B testing -> campaign performance analysis**.
-
----
-
-## 🎯 Programs Promoted
-
-The analysis focuses on three services:
-
-1. **Elderly Services (長者服務)**
-2. **Support Service for Non-Chinese Speaking Students (非華語學童支援服務)**
-3. **Special Educational Needs Support (SEN 支援服務)**
+단순히 광고만 집행하는 대신, 검색 의도 기반 키워드 설계 → 광고 카피 A/B 테스트 → 캠페인 성과 분석으로 이어지는 전체 성과 루프를 따라 진행했습니다.
 
 ---
 
-## 🔍 Analysis Objectives
+## 홍보 대상 서비스
 
-- Compare user response by keyword type
-- Evaluate ad copy performance by service type
-- Interpret A/B test outcomes using Google Ads metrics
-- Derive data-driven recommendations for community-service promotion in Hong Kong
+세 가지 서비스를 중심으로 분석을 진행했습니다.
 
----
-
-## 📊 Data Used
-
-- Google Ads campaign performance data
-  - Impressions, Clicks, CTR, Cost
-  - Ad Group, Campaign, and Keyword-level metrics
-- Optimization Score
-- Search keyword and ad exposure outcomes
-- User demographics (gender, age)
+1. **노인 서비스 (長者服務, Elderly Services)**
+2. **비중국어권 학생 지원 서비스 (非華語學童支援服務, Support for Non-Chinese Speaking Students)**
+3. **특수교육 지원 서비스 (SEN 支援服務, Special Educational Needs Support)**
 
 ---
 
-## 🛠 Tools
+## 분석 목표
+
+- 키워드 유형별 사용자 반응 비교
+- 서비스 유형별 광고 카피 성과 평가
+- Google Ads 지표를 활용한 A/B 테스트 결과 해석
+- 홍콩 커뮤니티 서비스 홍보를 위한 데이터 기반 제안 도출
+
+---
+
+## 사용 데이터
+
+- Google Ads 캠페인 성과 데이터
+  - 노출수, 클릭수, CTR, 비용
+  - 광고그룹, 캠페인, 키워드 단위 지표
+- 최적화 점수(Optimization Score)
+- 검색 키워드와 광고 노출 결과
+- 사용자 인구통계(성별, 연령)
+
+---
+
+## 사용 도구
 
 - Google Ads
-- Google Search (SERP)
-- CSV-based data cleaning and analysis
+- Google 검색(SERP)
+- CSV 기반 데이터 정제 및 분석
 
 ---
 
-## 📌 Key Results
+## 핵심 결과
 
-- Clear differences in CTR by service type
-- SEN-related keywords and ad copies showed relatively high engagement
-- Problem-aware keywords (e.g., ADHD) delivered strong CTR even in a short test period
-- Ad response patterns differed by language (Chinese vs English)
+- 서비스 유형별로 CTR 차이가 뚜렷하게 나타났습니다.
+- SEN 관련 키워드와 광고 카피가 상대적으로 높은 참여율을 보였습니다.
+- ADHD처럼 문제를 이미 인지한 상태에서 검색하는 키워드(problem-aware keyword)는 짧은 테스트 기간에도 강한 CTR을 기록했습니다.
+- 중국어와 영어 광고 간 반응 패턴이 서로 다르게 나타났어요.
 
-For detailed insights, see [insights.md](./insights.md).
+자세한 내용과 수치는 [insights.md](./insights.md)에서 확인할 수 있습니다.
